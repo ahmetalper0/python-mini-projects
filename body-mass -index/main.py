@@ -5,7 +5,7 @@ BMI = weight / ( ( height / 100 ) ** 2 )
 
 print(f'\nVücut kitle indeksiniz : {BMI}')
 
-if BMI>0:
+if BMI > 0:
 
     if BMI <= 16:
 
